@@ -7,25 +7,25 @@ Kelas: TI.22.A4
 ```
 
 # Membuat Ordered List
-![img](image/1.png)
+<img src="image/1.png" alt="image">
 
 # Membuat Unordered List
-![img](image/2.png)
+<img src="image/2.png" alt="image">
 
 # Membuat Description List
-![img](image/3.png)
+<img src="image/3.png" alt="image">
 
 # Membuat Tabel
-![img](image/4.png)
+<img src="image/4.png" alt="image">
 
 # Menggabungkan Sel Data
-![img](image/5.png)
+<img src="image/5.png" alt="image">
 
 # Membuat Form
-![img](image/6.png)
+<img src="image/6.png" alt="image">
 
 # Menambah Style Pada Form
-![img](image/7.png)
+<img src="image/7.png" alt="image">
 
 # 1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
-![img](image/8.png)
+<img src="image/8.png" alt="image">
