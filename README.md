@@ -28,4 +28,4 @@ Kelas: TI.22.A4
 <img src="image/7.png" alt="image">
 
 # 1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
-<img src="image/8.png" alt="image">
+![image](image/8.png)
